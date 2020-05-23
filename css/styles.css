@@ -600,6 +600,7 @@ pre code {
   flex-wrap: wrap;
   margin-right: -1.5rem;
   margin-left: -1.5rem;
+  justify-content: space-evenly;
 }
 
 .no-gutters {
@@ -10141,6 +10142,9 @@ h3 {
 }
 .masthead .masthead-subheading {
   font-size: 1.25rem;
+  width :570px;
+  margin: auto;
+  text-align: left;
 }
 .masthead .masthead-avatar {
   width: 15rem;
