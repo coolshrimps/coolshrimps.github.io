@@ -35,7 +35,7 @@
     color: #2c3e50 !important;
 }
 
-.project-info-title{
+#portfolioModal1Label, #portfolioModal2Label, #portfolioModal3Label{
     font-size: x-large;
 }
 
